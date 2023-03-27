@@ -11,13 +11,13 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         app:layout_constraintTop_toTopOf="parent"
-        android:background="#03A9F4"
+        android:background="#f1f1f1"
         />
     <Button
         android:id="@+id/button_red_fragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#E91E63"
+        android:backgroundTint="#E91E43"
         android:text="@string/red_fragment"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_margin="10dp"
